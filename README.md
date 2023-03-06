@@ -1,1 +1,1 @@
-﻿# ControlParental
+# ControlParental
